@@ -39,11 +39,13 @@ Os estudantes deverão desenvolver uma solução utilizando algoritmos e organiz
 
 - ---
 
-## Algoritmo de Cadastro
 
-O sistema permitirá cadastrar produtos contendo:
+- Quantidade em estoque
 
-- Código
-- Nome
-- Valor
+### Regras
+
+- O código deve ser único.
+- O valor deve ser maior que zero.
+- A quantidade inicial deve ser maior ou igual a zero.
+=======
 - Quantidade
