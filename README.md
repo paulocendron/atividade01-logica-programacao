@@ -38,18 +38,8 @@ Os estudantes deverão desenvolver uma solução utilizando algoritmos e organiz
 - Colaboração
 
 - ---
-Documenta o algoritmo de cadastro
-## Algoritmo de Cadastro
 
-### Objetivo
 
-Permitir o cadastro de produtos na Cantina da Honestidade.
-
-### Dados cadastrados
-
-- Código
-- Nome
-- Valor
 - Quantidade em estoque
 
 ### Regras
@@ -57,3 +47,5 @@ Permitir o cadastro de produtos na Cantina da Honestidade.
 - O código deve ser único.
 - O valor deve ser maior que zero.
 - A quantidade inicial deve ser maior ou igual a zero.
+=======
+- Quantidade
