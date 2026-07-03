@@ -36,3 +36,14 @@ Os estudantes deverão desenvolver uma solução utilizando algoritmos e organiz
 - Organização de projetos
 - Versionamento
 - Colaboração
+
+- ---
+
+## Algoritmo de Cadastro
+
+O sistema permitirá cadastrar produtos contendo:
+
+- Código
+- Nome
+- Valor
+- Quantidade
