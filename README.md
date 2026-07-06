@@ -44,8 +44,12 @@ Os estudantes deverão desenvolver uma solução utilizando algoritmos e organiz
 
 ### Regras
 
+
 - O código deve ser único.
 - O valor deve ser maior que zero.
 - A quantidade inicial deve ser maior ou igual a zero.
 =======
 - Quantidade
+
+- Atualiza README com informações do projeto
+- 
